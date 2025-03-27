@@ -1,0 +1,67 @@
+{
+  "expenses": [
+    {
+      "title": "resturant 222",
+      "category": "food",
+      "amount": 500,
+      "date": "2025-03-04T18:30:00.000Z",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "petrol 1",
+      "category": "petrol",
+      "amount": 732,
+      "date": "21-03-2025"
+    },
+    {
+      "id": "3",
+      "title": "eating",
+      "category": "food",
+      "amount": 5020,
+      "date": "24-03-2025"
+    },
+    {
+      "id": "4",
+      "title": "dating 1",
+      "category": "dating",
+      "amount": 5002,
+      "date": "24-03-2025"
+    },
+    {
+      "id": "5",
+      "title": "travel 1",
+      "category": "travel",
+      "amount": 500,
+      "date": "17-03-2025"
+    },
+    {
+      "id": "6",
+      "title": "resturant 1",
+      "category": "food",
+      "amount": 500,
+      "date": "24-03-2025"
+    },
+    {
+      "id": "7",
+      "title": "resturant 1",
+      "category": "food",
+      "amount": 500,
+      "date": "24-03-2025"
+    },
+    {
+      "id": "8",
+      "title": "resturant 1",
+      "category": "food",
+      "amount": 500,
+      "date": "24-03-2025"
+    },
+    {
+      "id": "9",
+      "title": "resturant 1",
+      "category": "food",
+      "amount": 500,
+      "date": "24-03-2025"
+    }
+  ]
+}

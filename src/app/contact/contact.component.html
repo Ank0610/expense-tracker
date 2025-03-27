@@ -1,0 +1,25 @@
+<div class="contact-container">
+  <h2>Contact Information</h2>
+  <div class="contact-info">
+    <p><strong>Name:</strong> {{ contactDetails.name }}</p>
+    <p><strong>Email:</strong> <a href="mailto:{{ contactDetails.email }}">{{ contactDetails.email }}</a></p>
+    <p><strong>Phone:</strong> {{ contactDetails.phone }}</p>
+    <p><strong>Address:</strong> {{ contactDetails.address }}</p>
+  </div>
+</div>
+
+<div class="contact-form">
+  <h3>Send Us a Message</h3>
+  <form>
+    <label for="name">Your Name</label>
+    <input id="name" type="text" [(ngModel)]="formData.name" name="name" required>
+
+    <label for="email">Your Email</label>
+    <input id="email" type="email" [(ngModel)]="formData.email" name="email" required>
+
+    <label for="message">Your Message</label>
+    <textarea id="message" [(ngModel)]="formData.message" name="message" required></textarea>
+
+    <button type="submit">Send</button>
+  </form>
+</div>
