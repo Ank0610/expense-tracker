@@ -55,13 +55,6 @@
       "category": "food",
       "amount": 500,
       "date": "24-03-2025"
-    },
-    {
-      "id": "9",
-      "title": "resturant 1",
-      "category": "food",
-      "amount": 500,
-      "date": "24-03-2025"
     }
   ]
 }
