@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjectCrudExpenseTracker
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# expense-tracker
+>>>>>>> 735af01a556e78032ad958bc6a09422ba6ca95ad
